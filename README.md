@@ -1,5 +1,4 @@
 # Notes
 Hello 👋
 
-Test
-Test
+# Notes
