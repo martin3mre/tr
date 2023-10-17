@@ -27,9 +27,7 @@
 
 # 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Top Project Management Tools For Developers🛠](https://iamdarshshah.hashnode.dev/top-project-management-tools-for-developers)
-- [Optional Chaining in JavaScript](https://iamdarshshah.hashnode.dev/optional-chaining-in-javascript)
-- [Top Chrome Extensions Every Developer Should Use 🛠](https://iamdarshshah.hashnode.dev/top-chrome-extensions-every-developer-should-use)
-- [Top VS Code Extensions Every Developer Should Use 🛠](https://iamdarshshah.hashnode.dev/top-vs-code-extensions-every-developer-should-use)
-- [JavaScript console API](https://iamdarshshah.hashnode.dev/javascript-console-api)
+- [This Is A Test Post](https://martin3mre.github.io/layout/uncategorized/TEST/)
+- [Layout: Sidebar with Navigation List](https://martin3mre.github.io/This-post-has-navigation-list/)
+- [This Is A Test Post](https://martin3mre.github.io/layout/uncategorized/This-is-a-Test-Post/)
 <!-- BLOG-POST-LIST:END -->
