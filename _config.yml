@@ -229,6 +229,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+title: Dzhavat Ushev Blog
+description: Welcome to my blog
+author: Dzhavat Ushev
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -300,4 +303,6 @@ defaults:
       author_profile: false
       sidebar:
         nav: "docs"
+
+
 
