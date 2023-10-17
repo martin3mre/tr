@@ -25,6 +25,6 @@
 
 - :mailbox:How to reach me: martinemre(at)outlook.com
 
- ### :writing_hand: Blog Posts :
+# 📩 Latest Blog Posts // You can name it whatever you want.
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
