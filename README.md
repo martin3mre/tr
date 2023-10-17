@@ -25,7 +25,7 @@
 
 - :mailbox:How to reach me: martinemre(at)outlook.com
 
-# 📩 Latest Blog Posts // You can name it whatever you want.
+# 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Top Project Management Tools For Developers🛠](https://iamdarshshah.hashnode.dev/top-project-management-tools-for-developers)
 - [Optional Chaining in JavaScript](https://iamdarshshah.hashnode.dev/optional-chaining-in-javascript)
