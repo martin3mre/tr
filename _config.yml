@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "All About"
 title_separator          : "A Cup of Coffee and Azure"
 subtitle                 : 
-name                     : "AzureDocs"
+name                     : "martin3mre"
 description              : "Senior Azure Consultant"
 url                      : "https://azuredocs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "AzureDocs/azuredocs.github.io" # the subpath of your site, e.g. "/blog"
