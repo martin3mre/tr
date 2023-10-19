@@ -31,5 +31,6 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 >* **Microsoft Certified**: Azure Administrator Associate (Legacy)
 
 <br/>
-
-![Alt text](image.png)(https://www.linkedin.com/in/martinemre)
+<a href="https://www.youtube.com/watch?v=your-video-id">
+  <img src="/assets/images/Profile/connect.jpg" />
+</a>
