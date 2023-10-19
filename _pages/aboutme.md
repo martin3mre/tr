@@ -15,12 +15,10 @@ I`m Emre. Working as Senior Azure Consultant [Ergo](https://www.ergogroup.ie/)
 I am also a [Microsoft Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003961?fullName=Emre%20MARTIN) since 2020.
 In this blog, I intend to share with you my experiences, some notes and tips that I think may be useful for you.
 
-<figure style="width: 600px">
-  <img src="/assets/images/Microsoft_MVP.png" alt="">
-  <figcaption></figcaption>
-</figure> 
 
-### 🏆 Some of Azure certificates that i have:
+[<img src="/assets/images/Microsoft_MVP.png">]([https://www.linkedin.com/in/martinemre](https://mvp.microsoft.com/en-US/MVP/profile/6b765850-38e8-ea11-a814-000d3a8dfe0d))
+
+### 🏆 Some of Azure certificates that I have:
 
 >* **Microsoft Certified**: DevOps Engineer Expert
 >* **Microsoft Certified**: Azure Virtual Desktop Specialty
@@ -32,17 +30,6 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 >* **Microsoft Certified**: Azure Solutions Architect Expert (Legacy)
 >* **Microsoft Certified**: Azure Administrator Associate (Legacy)
 
-<figure style="width: 600px">
-  <img src="/assets/images/Profile/connectwithme.jpg" alt="">
-  <figcaption></figcaption>
-</figure>
 
-![image](https://github.com/martin3mre/martin3mre/assets/139574902/f68e23c8-888e-41c7-adb0-ad6b51ce77c6)
 
-![image](https://github.com/martin3mre/martin3mre/assets/139574902/c15914c9-2a52-41ca-8459-451c3726113a)
-
-<a href="https://www.linkedin.com/in/martinemre/"><img src="/assets/images/Profile/connectwithme.jpg"></a>
-
-https://github.com/martin3mre/martin3mre/raw/main/assets/images/Profile/connectwithme.jpg
-
- 
+[<img src="/assets/images/Profile/connectwithme.jpg">](https://www.linkedin.com/in/martinemre)
