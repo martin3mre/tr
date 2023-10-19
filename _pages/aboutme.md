@@ -16,7 +16,7 @@ I am also a [Microsoft Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/
 In this blog, I intend to share with you my experiences, some notes and tips that I think may be useful for you.
 
 
-[<img src="assets/images/Microsoft_MVP.png">]([https://www.linkedin.com/in/martinemre](https://mvp.microsoft.com/en-US/MVP/profile/6b765850-38e8-ea11-a814-000d3a8dfe0d))
+[<img src="/assets/images/Microsoft_MVP.png">]([https://www.linkedin.com/in/martinemre](https://mvp.microsoft.com/en-US/MVP/profile/6b765850-38e8-ea11-a814-000d3a8dfe0d))
 
 ### 🏆 Some of Azure certificates that I have:
 
@@ -31,4 +31,6 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 >* **Microsoft Certified**: Azure Administrator Associate (Legacy)
 
 <br/>
-[<img src="assets/images/Profile/connectwithme.jpg">](https://www.linkedin.com/in/martinemre)
+
+[<img src="https://github.com/martin3mre/martin3mre/blob/main/assets/images/Profile/connectwithme.jpg">](https://www.linkedin.com/in/martinemre)
+
