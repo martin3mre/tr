@@ -17,7 +17,7 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 
 <br/>
 <a href="https://mvp.microsoft.com/ru-RU/MVP/profile/6b765850-38e8-ea11-a814-000d3a8dfe0d">
-  <img src="/assets/images/mvp.png/>
+  <img src="/assets/images/mvp.png/">
 </a>
 
 ### 🏆 Some of Azure certificates that I have:
@@ -33,5 +33,5 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 
 <br/>
 <a href="https://www.linkedin.com/in/martinemre/">
-  <img src="/assets/images/connect.jpg" />
+  <img src="/assets/images/connect.jpg"/>
 </a>
