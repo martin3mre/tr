@@ -15,7 +15,7 @@
   </a>   
 </div>
 
-- :telescope: I’m working as a senior Azure Consultant
+- :telescope: I`m working as Senior Azure Consultant at Ergo also former Microsoft Azure MVP since 2020.
 
 - :seedling: Exploring Technical Content Writing.
 
