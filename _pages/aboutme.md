@@ -17,7 +17,7 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 
 <br/>
 <a href="https://mvp.microsoft.com/ru-RU/MVP/profile/6b765850-38e8-ea11-a814-000d3a8dfe0d">
-  <img src="/assets/images/Microsoft_MVP.png?/>
+  <img src="/assets/images/mvp.png/>
 </a>
 
 ### 🏆 Some of Azure certificates that I have:
@@ -32,11 +32,6 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 >* **Microsoft Certified**: Azure Administrator Associate (Legacy)
 
 <br/>
-<<<<<<< HEAD
-
-![Alt text](image.png):(https://www.linkedin.com/in/martinemre)
-=======
 <a href="https://www.linkedin.com/in/martinemre/">
-  <img src="/assets/images/Profile/connect.jpg" />
+  <img src="/assets/images/connect.jpg" />
 </a>
->>>>>>> e4f01392b76df84f0939fbf121db1855bc1f367c
