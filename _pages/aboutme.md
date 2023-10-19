@@ -17,9 +17,12 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 
 ![Alt text](image-1.png)
 
+<br/>
+<a href="https://mvp.microsoft.com/ru-RU/MVP/profile/6b765850-38e8-ea11-a814-000d3a8dfe0d">
+  <img src="/assets/images/Microsoft_MVP.png?/>
+</a>
 
 ### 🏆 Some of Azure certificates that I have:
-
 >* **Microsoft Certified**: DevOps Engineer Expert
 >* **Microsoft Certified**: Azure Virtual Desktop Specialty
 >* **Microsoft Certified**: Azure Security Engineer Associate
@@ -31,6 +34,6 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 >* **Microsoft Certified**: Azure Administrator Associate (Legacy)
 
 <br/>
-<a href="https://www.youtube.com/watch?v=your-video-id">
+<a href="https://www.linkedin.com/in/martinemre/">
   <img src="/assets/images/Profile/connect.jpg" />
 </a>
