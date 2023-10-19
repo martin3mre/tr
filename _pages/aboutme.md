@@ -17,26 +17,6 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 
 <br/>
 
-![](assets/images/mvp.png)(https://www.linkedin.com/in/martinemre)
-
-222
-
-![](/assets/images/mvp.png)(https://www.linkedin.com/in/martinemre)
-
-3333
-[![](/assets/images/mvp.png 'MVP')](https://mvp.microsoft.com/ru-RU/MVP/profile/6b765850-38e8-ea11-a814-000d3a8dfe0d)
-
-4444
-
-![](/images/mvp.png)(https://www.linkedin.com/in/martinemre)
-55555
-
-![](images/mvp.png)(https://www.linkedin.com/in/martinemre)
-
-### 🏆 Some of Azure certificates that I have:
-
-![Image Alt text](/assets/images/mvp.png "Optional title")(https://www.linkedin.com/in/martinemre)
-
 
 ### 🏆 Some of Azure certificates that I have:
 >* **Microsoft Certified**: DevOps Engineer Expert
@@ -50,12 +30,5 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 >* **Microsoft Certified**: Azure Administrator Associate (Legacy)
 
 <br/>
-![Untitled](https://github.com/martin3mre/martin3mre/assets/139574902/4633b540-d5a5-4e28-9336-49d2812b5468)
+![Untitled](https://github.com/martin3mre/martin3mre/assets/139574902/4633b540-d5a5-4e28-9336-49d2812b5468)(https://www.linkedin.com/in/martinemre)
 
-
-
-
-[![](/assets/images/connect.png 'ConnectWithMe')](https://www.linkedin.com/in/martinemre)
-
-
- ![](images/connect.png)(https://www.linkedin.com/in/martinemre)
