@@ -35,3 +35,4 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 <a href="https://www.linkedin.com/in/martinemre/">
   <img src="/assets/images/connect.jpg"/>
 </a>
+ <img src="/assets/images/connect.jpg"/>
