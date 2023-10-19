@@ -35,7 +35,7 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 
 ### 🏆 Some of Azure certificates that I have:
 
-![Image Alt text](/assets/images/mvp.png "Optional title"))(https://www.linkedin.com/in/martinemre)
+![Image Alt text](/assets/images/mvp.png "Optional title")(https://www.linkedin.com/in/martinemre)
 
 
 ### 🏆 Some of Azure certificates that I have:
