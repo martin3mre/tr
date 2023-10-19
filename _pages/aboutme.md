@@ -16,7 +16,7 @@ I am also a [Microsoft Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/
 In this blog, I intend to share with you my experiences, some notes and tips that I think may be useful for you.
 
 <br/>
-
+[![1](https://github.com/martin3mre/martin3mre/assets/images/mvp.png)](https://github.com/melqassas/)
 
 ### 🏆 Some of Azure certificates that I have:
 >* **Microsoft Certified**: DevOps Engineer Expert
@@ -38,7 +38,7 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 
 ______
 
-[![1](https://github.com/martin3mre/martin3mre/blob/main/assets/images/1Untitled.jpg)](https://github.com/melqassas/)
+[![1](https://github.com/martin3mre/martin3mre/blob/main/assets/images/mvp.png)](https://github.com/melqassas/)
 
  
 
