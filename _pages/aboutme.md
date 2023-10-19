@@ -36,3 +36,6 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
   <img src="/assets/images/connect.jpg"/>
 </a>
  <img src="/assets/images/connect.jpg"/>
+
+ [!"(/assets/images/connect.jpg)"](https://codecademy.com)
+
