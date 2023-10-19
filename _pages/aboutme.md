@@ -50,6 +50,9 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 >* **Microsoft Certified**: Azure Administrator Associate (Legacy)
 
 <br/>
+![Untitled](https://github.com/martin3mre/martin3mre/assets/139574902/4633b540-d5a5-4e28-9336-49d2812b5468)
+
+
 
 
 [![](/assets/images/connect.png 'ConnectWithMe')](https://www.linkedin.com/in/martinemre)
