@@ -32,6 +32,13 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 >* **Microsoft Certified**: Azure Solutions Architect Expert (Legacy)
 >* **Microsoft Certified**: Azure Administrator Associate (Legacy)
 
+<figure style="width: 600px">
+  <img src="/assets/images/Profile/connectwithme.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
 <a href="https://www.linkedin.com/in/martinemre/"><img src="/assets/images/Profile/connectwithme.jpg"></a>
+
+https://github.com/martin3mre/martin3mre/raw/main/assets/images/Profile/connectwithme.jpg
 
  
