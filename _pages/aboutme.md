@@ -26,6 +26,13 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 3333
 [![](/assets/images/mvp.png 'MVP')](https://mvp.microsoft.com/ru-RU/MVP/profile/6b765850-38e8-ea11-a814-000d3a8dfe0d)
 
+4444
+
+![](/images/mvp.png)(https://www.linkedin.com/in/martinemre)
+55555
+
+![](images/mvp.png)(https://www.linkedin.com/in/martinemre)
+
 ### 🏆 Some of Azure certificates that I have:
 >* **Microsoft Certified**: DevOps Engineer Expert
 >* **Microsoft Certified**: Azure Virtual Desktop Specialty
