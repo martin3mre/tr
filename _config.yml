@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "All About Azure"
 title_separator          : 
-subtitle                 : " and A Cup of Coffee ☕"
+subtitle                 : " and **A Cup of Coffee**☕"
 name                     : "martin3mre"
 description              : "Senior Azure Consultant"
 url                      : "https://martin3mre.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
