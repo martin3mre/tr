@@ -32,10 +32,6 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 >* **Microsoft Certified**: Azure Administrator Associate (Legacy)
 
 <br/>
-<a href="https://www.linkedin.com/in/martinemre/">
-  <img src="/assets/images/connect.jpg"/>
-</a>
- <img src="/assets/images/connect.jpg"/>
 
- [!"(/assets/images/connect.jpg)"](https://codecademy.com)
 
+[![](/assets/images/connect.jpg 'ConnectME')](https://www.linkedin.com/in/martinemre)
