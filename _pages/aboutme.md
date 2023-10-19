@@ -34,6 +34,11 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 ![](images/mvp.png)(https://www.linkedin.com/in/martinemre)
 
 ### 🏆 Some of Azure certificates that I have:
+
+![Image Alt text](/assets/images/mvp.png "Optional title"))(https://www.linkedin.com/in/martinemre)
+
+
+### 🏆 Some of Azure certificates that I have:
 >* **Microsoft Certified**: DevOps Engineer Expert
 >* **Microsoft Certified**: Azure Virtual Desktop Specialty
 >* **Microsoft Certified**: Azure Security Engineer Associate
