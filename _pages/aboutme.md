@@ -32,4 +32,4 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
 
 <br/>
 
-![Alt text](image.png)(https://www.linkedin.com/in/martinemre)
+![Alt text](image.png):(https://www.linkedin.com/in/martinemre)
