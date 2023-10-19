@@ -17,10 +17,6 @@
 
 - :telescope: I`m working as Senior Azure Consultant at Ergo also former Microsoft Azure MVP since 2020.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time read tech articles.
-
 - :mailbox:How to reach me: martinemre(at)outlook.com
   
 ## 📩 Latest Blog Posts 
