@@ -37,6 +37,10 @@ In this blog, I intend to share with you my experiences, some notes and tips tha
   <figcaption></figcaption>
 </figure>
 
+![image](https://github.com/martin3mre/martin3mre/assets/139574902/f68e23c8-888e-41c7-adb0-ad6b51ce77c6)
+
+![image](https://github.com/martin3mre/martin3mre/assets/139574902/c15914c9-2a52-41ca-8459-451c3726113a)
+
 <a href="https://www.linkedin.com/in/martinemre/"><img src="/assets/images/Profile/connectwithme.jpg"></a>
 
 https://github.com/martin3mre/martin3mre/raw/main/assets/images/Profile/connectwithme.jpg
