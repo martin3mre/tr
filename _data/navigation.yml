@@ -13,10 +13,8 @@ main:
   - title: "Categories"
     url: /categories/
 
-  - title: "Categories2"
-    url: /categories2/
-    
-  - title: "Sample Collections"
+   
+  - title: "collection"
     url: /collection/
 
         
