@@ -21,11 +21,11 @@
   
 ## 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [This Is A Test Post](https://martin3mre.github.io/posts/2023-10-10-TEST/)
-- [TEST FOR RRS](https://martin3mre.github.io/posts/2023-10-10-TEST-FOR-RRS/)
-- [Layout: Sidebar with Navigation List](https://martin3mre.github.io/posts/2023-05-06-This-post-has-navigation-list/)
-- [This Is A Test Post](https://martin3mre.github.io/posts/2023-05-05-This-is-a-Test-Post/)
-- [This Is A Test Post](https://martin3mre.github.io/posts/2023-04-04-2TEST/)
+- [This Is A Test Post](https://martin3mre.github.io/layout/uncategorized/TEST/)
+- [TEST FOR RRS](https://martin3mre.github.io/layout/uncategorized/TEST-FOR-RRS/)
+- [Layout: Sidebar with Navigation List](https://martin3mre.github.io/This-post-has-navigation-list/)
+- [This Is A Test Post](https://martin3mre.github.io/layout/uncategorized/This-is-a-Test-Post/)
+- [This Is A Test Post](https://martin3mre.github.io/layout/uncategorized/2TEST/)
 <!-- BLOG-POST-LIST:END -->
 
 ##  
