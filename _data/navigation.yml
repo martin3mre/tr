@@ -13,14 +13,6 @@ main:
   - title: "Categories"
     url: /categories/
 
-   
-  - title: "collection"
-    url: /collection-archive.html/
-
-        
-  #- title: "Guide"
-  #  url: /markdown/
-
 docs:
   - title: Getting Started test
     children:
