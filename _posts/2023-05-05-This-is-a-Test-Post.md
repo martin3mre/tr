@@ -10,6 +10,7 @@ tags:
   - featured image
   - image
   - layout
+collection: recipes
 ---
 
 This pots created as test purpose.
