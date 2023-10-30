@@ -300,5 +300,4 @@ defaults:
       author_profile: false
       sidebar:
         nav: "docs"
-language_data: data.lang.%%
-language_includes_dir: _i18n
+languages: ["eng", "tr"]
