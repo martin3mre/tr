@@ -15,14 +15,16 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-languages: ["en", "tr"]
-exclude_from_localizations: ["assets", "CNAME"]
-defaultLang: en
-languageNames:
-  de: Deutsch
-  en: English
-title                    : "All About Azure"
+locale: 
+  en                     : "en"
+  zh                     : "zh"
+title: 
+  en                     : "Notes from the Underground"
+  zh                     : "地下室手记"
+title_separator          : "|"
+name: 
+  en                     : "Hatchin"
+  zh                     : "哈金"
 title_separator          : 
 subtitle                 : " and a Cup of Coffee ☕"
 name                     : "martin3mre"
@@ -228,6 +230,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+languages: ["en", "zh"]
 
 # Plugins (previously gems:)
 plugins:
@@ -306,3 +309,5 @@ defaults:
       author_profile: false
       sidebar:
         nav: "docs"
+
+
