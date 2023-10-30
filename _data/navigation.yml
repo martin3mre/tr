@@ -12,6 +12,9 @@ main:
     
   - title: "Categories"
     url: /categories/
+
+ - title: "Categorie2s"
+    url: /categories2/
     
   - title: "Sample Collections"
     url: /collection-archive/
