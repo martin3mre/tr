@@ -1,47 +1,6 @@
-about:
-  title                      : About Here
-  intro                      : Hey —</p><p>This is Hatchin. </p><p>Another station, to share and record, for something about Data Science.
-  contact                    : Contact
-  contact_message            : If you would like to subscribe or leave me a message
-  name                       : Name
-  Email                      : Email
-  message                    : Message (if any)
-  Subscribe                  : Subscribe
-  send                       : Send
-  personal_url               : Personal URL (optional)
-  private                    : Private (won't publish on Board)
-  comments                   : Comments
-  reply                      : Reply
-
-thankyou:
-  thankyou                   : Thank you! 
-  response                   : It is great to hear from you! We will get in touch soon.
-  back_to_home               : Back to homepage
-
-navi:
-  Posts                      : Posts
-  About                      : About
-
-sidebar:
-  Topics                     : Topics
-  Posts_by_Year              : Posts by Year
-  Posts_by_Category          : Posts by Category
-  Posts_by_Tag               : Posts by Tag
-  
-  Categories                 : Categories
-  Clustering                 : Clustering
-  Stat                       : Stat
-  Neural_Network             : Neural Network
-  Random_Note                : Random Note
-  Deep_Learning              : Deep Learning
-  Generative_Model           : Generative Model
-  
-  Tags                       : Tags
-  Theory                     : Theory
-  Tool                       : Tool
-  Web                        : Web
-  How_do_I_build_my_blog?    : How do I build my blog?
-
-comments:
-  lang                       : en
-  title                      : LEAVE A COMMENT
+languages: ["en", "de"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: en
+languageNames:
+  de: Deutsch
+  en: English
