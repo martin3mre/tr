@@ -303,7 +303,7 @@ defaults:
         nav: "docs"
         
 collections:
-  portfolio:
+  posts:
     output: true
     permalink: /:collection/:path/
 
