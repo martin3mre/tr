@@ -16,6 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
+languages: ["en", "tr"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: en
+languageNames:
+  de: Deutsch
+  en: English
 title                    : "All About Azure"
 title_separator          : 
 subtitle                 : " and a Cup of Coffee ☕"
@@ -300,4 +306,3 @@ defaults:
       author_profile: false
       sidebar:
         nav: "docs"
-languages: ["eng", "tr"]
