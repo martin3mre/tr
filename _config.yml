@@ -19,15 +19,12 @@ locale:
   en                     : "en"
   zh                     : "zh"
 title: 
-  en                     : "Notes from the Underground"
-  zh                     : "地下室手记"
+  en                     : " and a Cup of Coffee ☕"
+  zh                     : "test"
 title_separator          : "|"
 name: 
-  en                     : "Hatchin"
-  zh                     : "哈金"
-title_separator          : 
-subtitle                 : " and a Cup of Coffee ☕"
-name                     : "martin3mre"
+  en                     : "Azure"
+  zh                     : "test"
 description              : "**"
 url                      : "https://martin3mre.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "martin3mre.github.io/martin3mre" # the subpath of your site, e.g. "/blog"
