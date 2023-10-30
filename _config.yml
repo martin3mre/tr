@@ -15,16 +15,10 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: 
-  en                     : "en"
-  zh                     : "zh"
-title: 
-  en                     : " and a Cup of Coffee ☕"
-  zh                     : "test"
+locale                   : "en"
+title:                   : " and a Cup of Coffee ☕"
 title_separator          : "|"
-name: 
-  en                     : "Azure"
-  zh                     : "test"
+name:                    : "Azure"
 description              : "**"
 url                      : "https://martin3mre.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "martin3mre.github.io/martin3mre" # the subpath of your site, e.g. "/blog"
