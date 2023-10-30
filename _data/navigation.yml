@@ -13,7 +13,10 @@ main:
   - title: "Categories"
     url: /categories/
     
-    
+  - title: "Sample Collections"
+    url: /collection-archive/
+
+        
   #- title: "Guide"
   #  url: /markdown/
 
