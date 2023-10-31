@@ -1,5 +1,7 @@
+---
 title: Foo
 layout: category
 permalink: /catgory/foo/
-taxonomy: Layout
+taxonomy: foo
 entries_layout: grid
+---
