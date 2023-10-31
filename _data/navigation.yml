@@ -10,11 +10,12 @@ main:
   - title: "Posts by Tag"
     url: /tags/
 
-  - title: "| Türkce ⭐ |"
-    url: /tr/
-    
+  
   - title: "Categories"
     url: /categories/
+
+    - title: "| Yazilar (TR) ⭐ |"
+    url: /tr/
 
 docs:
   - title: Getting Started test
