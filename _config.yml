@@ -301,3 +301,9 @@ defaults:
       author_profile: false
       sidebar:
         nav: "docs"       
+
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
