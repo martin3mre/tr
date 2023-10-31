@@ -6,5 +6,7 @@ taxonomy: tr
 entries_layout: list
 author_profile: true
 classes: wide
+sidebar:
+  nav: ""
+toc: false
 ---
-
