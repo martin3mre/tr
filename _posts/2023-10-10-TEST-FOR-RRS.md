@@ -4,7 +4,7 @@ author_profile : true
 classes: wide
 categories:
   - Layout
-  - Uncategorized
+  - tr
 tags:
   - edge case
   - featured image
