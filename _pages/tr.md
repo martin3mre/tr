@@ -1,5 +1,5 @@
 ---
-title: Makaleler - TR
+title: Türkce 😏
 layout: category
 permalink: /tr/
 taxonomy: tr
