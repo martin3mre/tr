@@ -3,13 +3,9 @@ title: "TEST FOR RRS"
 author_profile : true
 classes: wide
 categories:
-  - Layout
   - tr
 tags:
   - edge case
-  - featured image
-  - image
-  - layout
 ---
 
 This pots created as test purpose.
