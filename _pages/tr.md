@@ -1,7 +1,7 @@
 ---
-title: Türkce 😏
+title: TR
 layout: category
 permalink: /tr/
 taxonomy: tr
-entries_layout: list
+entries_layout: grid
 ---
