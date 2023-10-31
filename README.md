@@ -25,7 +25,7 @@
 - [TEST FOR RRS](https://martin3mre.github.io/layout/uncategorized/TEST-FOR-RRS/)
 - [Layout: Sidebar with Navigation List](https://martin3mre.github.io/This-post-has-navigation-list/)
 - [This Is A Test Post](https://martin3mre.github.io/layout/uncategorized/This-is-a-Test-Post/)
-- [This Is A Test Post](https://martin3mre.github.io/layout/uncategorized/2TEST/)
+- [This Is A Test Post](https://martin3mre.github.io/layout/uncategorized/test1/2TEST/)
 <!-- BLOG-POST-LIST:END -->
 
 ##  
