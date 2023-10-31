@@ -14,7 +14,7 @@ main:
   - title: "Categories"
     url: /categories/
 
-    - title: "| Yazilar (TR) ⭐ |"
+  - title: "| Yazilar (TR) ⭐ |"
     url: /tr/
 
 docs:
