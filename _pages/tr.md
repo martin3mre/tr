@@ -1,5 +1,5 @@
 ---
-title: Son Gönderiler (Türkçe)
+title: Son Gönderiler
 layout: category
 permalink: /tr/
 taxonomy: tr
