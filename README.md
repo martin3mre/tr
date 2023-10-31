@@ -21,11 +21,11 @@
   
 ## 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Önizleme: Azure Backup MARS ajanı Parolasını Azure Key Vault’ta Güvenli bir şekilde saklayın.](https://martin3mre.github.io/tr/azure%20security/Azure-Notes-001/)
 - [This Is A Test Post](https://martin3mre.github.io/layout/uncategorized/TEST/)
 - [TEST FOR RRS](https://martin3mre.github.io/tr/TEST-FOR-RRS/)
 - [Layout: Sidebar with Navigation List](https://martin3mre.github.io/This-post-has-navigation-list/)
 - [This Is A Test Post](https://martin3mre.github.io/layout/uncategorized/This-is-a-Test-Post/)
-- [This Is A Test Post](https://martin3mre.github.io/layout/uncategorized/tr/2TEST/)
 <!-- BLOG-POST-LIST:END -->
 
 ##  
