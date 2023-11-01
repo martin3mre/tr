@@ -1,5 +1,5 @@
 ---
-title: "Kategoriye Göre Gönderiler"
+title: "Kategoriler"
 layout: categories
 classes: wide
 entries_layout: grid
