@@ -1,5 +1,5 @@
 ---
-title: "Posts by Tag"
+title: "Etiketler"
 permalink: /tags/
 layout: tags
 author_profile: true
