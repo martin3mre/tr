@@ -1,5 +1,5 @@
 ---
-permalink: /aboutme/
+permalink: /Hakkimda/
 title: "About Me"
 last_modified_at: 2023-07-21
 classes: wide

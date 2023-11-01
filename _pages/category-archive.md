@@ -1,5 +1,5 @@
 ---
-title: "Posts by Category"
+title: "Kategoriye Göre Gönderiler"
 layout: categories
 classes: wide
 entries_layout: grid
