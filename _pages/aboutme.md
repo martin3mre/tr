@@ -1,6 +1,6 @@
 ---
-permalink: /Hakkimda/
-title: "About Me"
+permalink: /aboutme/
+title: "Hakkımda"
 last_modified_at: 2023-07-21
 classes: wide
 sidebar:
