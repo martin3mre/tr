@@ -14,9 +14,6 @@ main:
   - title: "Categories"
     url: /categories/
 
-  - title: "Yazilar (TR) ⭐"
-    url: /tr/
-
 docs:
   - title: Getting Started test
     children:
