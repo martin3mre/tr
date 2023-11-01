@@ -14,12 +14,8 @@ main:
   - title: "Kategoriler"
     url: /categories/
 
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+  - title: Eng
+    url: https://martin3mre.github.io/
 
 arc:
   - title: "Archives"
