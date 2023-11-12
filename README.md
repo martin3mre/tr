@@ -21,6 +21,7 @@
   
 ## 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Önizleme: Azure Backup MARS ajanı Parolasını Azure Key Vault’ta Güvenli bir şekilde saklayın.](https://martin3mre.github.io/tr/azure%20security/Azure-Notes-001/)
+- [Önizleme: Azure Backup MARS ajanı Parolasını Azure Key Vault’ta Güvenli bir şekilde saklayın.](https://martinemre.github.io/azure/Azure-Notes-002/)
+- [Önizleme: Application Gateway WAF - Rate Limiting Özelliği](https://martinemre.github.io/azure/Azure-Notes-001/)
 <!-- BLOG-POST-LIST:END -->
 
