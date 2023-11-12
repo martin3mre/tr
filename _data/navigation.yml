@@ -1,24 +1,25 @@
 # main links links
 main:
 
-  - title: "Hakkimda"
+  - title: "About Me"
     url: /aboutme/
         
-  - title: "Arşiv"
+  - title: "Blog Posts"
     url: /year-archive/
   
-  - title: "Etiketler"
+  - title: "Posts by Tag"
     url: /tags/
 
   
-  - title: "Kategoriler"
+  - title: "Categories"
     url: /categories/
 
-  - title: Eng
-    url: https://martin3mre.github.io/
+  - title: "En"
+    url: https://martinemre.github.io/
 
 arc:
   - title: "Archives"
     children:
       - title: "2022"
         url: /2022
+
