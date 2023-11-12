@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-IE"
 title                    : "All About Azure"
 title_separator          : 
 subtitle                 : " and a Cup of Coffee ☕"
