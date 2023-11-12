@@ -10,10 +10,6 @@ main:
   - title: "Posts by Tag"
     url: /tags/
 
-  
-  - title: "Categories"
-    url: /categories/
-
   - title: "Tr"
     url: https://martinemre.github.io/
 
