@@ -1,6 +1,6 @@
 ---
 permalink: /aboutme/
-title: "Hakkımda"
+title: "About Me"
 last_modified_at: 2023-07-21
 classes: wide
 sidebar:
@@ -9,11 +9,12 @@ toc: false
 author_profile: true
 ---
 
-Merhaba ! 👋
+Hey There ! 👋
 
-I`m Emre. Working as Senior Azure Consultant [Ergo](https://www.ergogroup.ie/)
-I am also a [Microsoft Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003961?fullName=Emre%20MARTIN) since 2020.
-In this blog, I intend to share with you my experiences, some notes and tips that I think may be useful for you.
+I'm Emre, working as Senior Azure Consultant at [Ergo](https://www.ergogroup.ie/). 
+Also since 2020, I've proudly held the title of [Azure Most Valuable Professional (MVP)](https://mvp.microsoft.com/en-us/PublicProfile/5003961?fullName=Emre%20MARTIN) 
+I hope you find inspiration and useful insights on this blog as we navigate the vast world of technology together. 
+Feel free to join the conversation with your questions or share your own experiences 😊
 
 ![mvp](https://github.com/martin3mre/martin3mre/assets/139574902/754414db-6af7-449a-b190-78e0bc560c61)
 
