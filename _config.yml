@@ -62,13 +62,13 @@ atom_feed:
   hide                   : # true, false (default)
 search                   : true #false (default)
 search_full_content      : true #false (default)
-search_provider          : lunr (default), algolia, google
+search_provider          : algolia
 lunr:
   search_within_pages    : true #false (default)
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  application_id         : OSTKPDGUC8
+  index_name             : allaboutazure-eng
+  search_only_api_key    : 3a88252dfda117190ce491fba0c77675
   powered_by             : # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
@@ -116,16 +116,16 @@ author:
     #  url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://azuredocs.com/"
+      url: "https://martinemre.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/emr3martin"
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
     #  url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/martinemre"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/martinemre//"
@@ -135,13 +135,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/emr3martin"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: github.com
+      url: "https://martinemre.github.io/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -230,7 +230,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-multiple-languages-plugin
+  - jekyll-algolia
 
 # mimic GitHub Pages with --safe
 whitelist:
