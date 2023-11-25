@@ -1,5 +1,5 @@
 ---
-title: "Kategoriler"
+title: "Categories"
 layout: categories
 classes: wide
 entries_layout: grid

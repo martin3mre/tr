@@ -19,7 +19,7 @@ Feel free to join the conversation with your questions or share your own experie
 ![mvp](https://github.com/martin3mre/martin3mre/assets/139574902/754414db-6af7-449a-b190-78e0bc560c61)
 
 
-### 🏆 Sahip olduğum Azure sertifikalarından bazıları::
+### 🏆 Some of the Azure certifications I have:
 >* **Microsoft Certified**: DevOps Engineer Expert
 >* **Microsoft Certified**: Azure Virtual Desktop Specialty
 >* **Microsoft Certified**: Azure Security Engineer Associate
